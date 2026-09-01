@@ -1,0 +1,49 @@
+{ DAY 1 }
+
+[    (1) SIMPLE CALCULATOR    ]
+
+What I Learned from Simple Calculator : 
+
+input() is used to take input from the user.
+float() converts the input into a decimal number.
+Variables like num1 and num2 store values.
++ is used for addition.
+- is used for subtraction.
+* is used for multiplication.
+/ is used for division.
+if is used to check a condition.
+!= means not equal to.
+We use if num2 != 0 to prevent division by zero errors.
+
+
+[    (2) UNIT CONVERTER    ]
+
+What I Learned from Unit Converter :
+
+choice stores the user's selected option.
+input() takes the choice as text (string).
+if, elif, and else are used to handle different choices.
+float() converts user input into a decimal number.
+Formulas can be used directly in Python calculations.
+* and / are used for multiplication and division.
+f"..." is used to create formatted output.
+:.2f displays a number with 2 decimal places.
+else handles an invalid choice.
+I learned how to build a menu-based program using conditions.
+
+
+[    (3) SIMPLE INTEREST CALCULATOR     ]
+
+What I Learned from Simple Interest Calculator :
+
+input() is used to take values from the user.
+float() converts input into decimal numbers.
+p, r, and t store Principal, Rate, and Time.
+I learned how to apply a mathematical formula in Python.
+(p * r * t) / 100 calculates Simple Interest.
+p + SI calculates the Total Amount.
+Variables can be used to store calculated results.
+f"..." is used to combine text and variables in output.
+:.2f displays the result up to 2 decimal places.
+I learned how to create a simple real-world calculation program.
+
