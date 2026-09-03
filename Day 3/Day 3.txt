@@ -1,0 +1,40 @@
+[ DAY 3 ] 
+
+NUMBER GUESSING GAME :
+
+Imported the random module to create random values.
+Generated a secret number using random.randint().
+Used input() to receive guesses from the player.
+Converted user input into an integer using int().
+Repeated the game using a while loop.
+Tracked the number of guesses with an attempt counter.
+Compared numbers using operators like == and >.
+Used if, elif, and else to give hints like Too High or Too Low.
+Used break to stop the loop when the correct number was guessed.
+Created an interactive guessing game using basic Python concepts.
+
+QUIZ APPLICATION :
+
+Took answers from the user using input().
+Displayed questions with multiple-choice options.
+Checked answers using conditional statements.
+Used .upper() to accept both uppercase and lowercase inputs.
+Created a score variable to track correct answers.
+Increased the score using score += 1.
+Practiced comparing values with the == operator.
+Used f-strings to show the final result.
+Organized the program into multiple questions.
+Built a simple interactive quiz game using Python
+
+ROCK PAPER SCISSOR GAME :
+
+Used the random module to make the computer choose randomly.
+Learned how random.choice() selects an item from a list.
+Stored different game choices inside a list.
+Took the player's choice using input().
+Used separate variables for user choice and computer choice.
+Practiced comparing two values using ==.
+Used and to check multiple conditions together.
+Applied if, elif, and else to create the game rules.
+Handled three possible results: Win, Lose, and Draw.
+Built a simple game where both the user and computer make choices.
