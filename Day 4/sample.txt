@@ -1,0 +1,3 @@
+---- TEXT FILE ANALYSIS ----
+
+Hey , I'm Addy and I am doing my one month learning Python and becoming Zero To Better in it.
