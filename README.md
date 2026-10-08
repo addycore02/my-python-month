@@ -1,6 +1,6 @@
 30 days of Python. Somehow, I survived 💀
 
-Today I completed my **30-day Python journey** — starting from basically " what does this line even do ? " to actually being able to understand and build programs on my own.
+I completed my **30-day Python journey** — starting from basically " what does this line even do ? " to actually being able to understand and build programs on my own.
 
 I wouldn’t say I became a Python expert in 30 days ( let’s not get delusional 💀 ) , but I definitely went from **zero → better**.
 
